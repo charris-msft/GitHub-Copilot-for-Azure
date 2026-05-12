@@ -1,6 +1,6 @@
 ---
 name: azure-function-app-deployment
-description: Deploy serverless functions to Azure Function Apps using Azure CLI and Azure Functions Core Tools. Use this skill when deploying serverless APIs, event-driven functions, timer-triggered jobs, or webhook handlers to Azure Functions.
+description: Deploy and publish Azure Functions to Azure using Azure CLI and Azure Functions Core Tools. USE THIS SKILL when users want to deploy, publish, or ship their function app to Azure — NOT for creating or developing functions locally (use azure-functions for that). Covers resource provisioning (storage accounts, Function App creation, hosting plans), deployment with func azure functionapp publish, deployment slots, CI/CD with GitHub Actions, app settings configuration, and monitoring setup. Activate when users mention deploying functions to Azure, publishing a function app, creating Azure Function App resources, configuring deployment slots, setting up Function App CI/CD pipelines, or troubleshooting deployment failures. Trigger phrases include "deploy my function to Azure", "publish my function app", "deploy Azure Functions", "create a Function App in Azure", "set up staging slots for functions", "deploy serverless API to Azure", "func azure functionapp publish", etc.
 ---
 
 # Azure Function App Deployment

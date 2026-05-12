@@ -1,6 +1,6 @@
 ---
 name: azure-functions
-description: Serverless event-driven compute with Azure Functions - pay-per-execution, auto-scaling, multiple trigger types, and deployment workflows
+description: Build, develop, and configure Azure Functions projects for serverless event-driven compute. USE THIS SKILL when users want to create, scaffold, develop, or run Azure Functions locally — NOT for deploying to Azure (use azure-function-app-deployment for that). Covers project initialization with func init, local development with func start, trigger and binding configuration, hosting plan selection, Durable Functions patterns, and function code examples. Activate when users mention creating Azure Functions, building serverless APIs, writing function code, configuring triggers or bindings, running functions locally, host.json, local.settings.json, HTTP triggers, timer triggers, queue triggers, blob triggers, Durable Functions, or choosing a hosting plan. Trigger phrases include "create a serverless API", "build an Azure Function", "set up a timer-triggered function", "create webhooks in Azure", "run functions locally", "initialize a function project", "how do Azure Functions work", "configure function bindings", etc.
 ---
 
 # Azure Functions
